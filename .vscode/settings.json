@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "iostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
+}
