@@ -1,7 +1,8 @@
 {
   "files.associations": {
     "*.vue": "vue",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "limits": "c"
   },
   "C_Cpp.errorSquiggles": "Enabled"
 }
